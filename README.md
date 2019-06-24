@@ -1,5 +1,4 @@
-![Stubborn Generator](https://downloader.disk.yandex.ru/preview/84c527b65a259b186a080a13ab47dbba41d93d190e8a5da911b00fcfcc4543fd/5d0d2796/iGy5C5SYdp8TEMvPcYDXQW3SvjEo5nZC3vo7pbqOIljP0t4D9Qg1nJRHCv7Ce7Dm0It1nBM6qzEYmH0KRGM_AQ%3D%3D?uid=0&filename=Cover.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&size=2048x2048)
-# Stubborn Generator
+![Stubborn Generator](https://stubborn.fun/images/man.gif)
 
 Get the opportunity to design your characters using our generator absolutely for free
 
