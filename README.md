@@ -1,5 +1,8 @@
 ![Stubborn Generator](https://stubborn.fun/images/man.gif)
+![Stubborn Generator](https://stubborn.fun/images/Girl.gif)
+![Stubborn Generator](https://stubborn.fun/images/Robot.gif)
 
+# Stubborn Generator
 Get the opportunity to design your characters using our generator absolutely for free
 
 ## Getting Started
@@ -24,7 +27,7 @@ Included files:
 
 ```
 * License.pdf
-* Readme.pdf
+* Readme.md
 * Stubborn Illustrations.url
 * More Craftwork Illustraions.url
 * Sketch - folder with Illustration Library and Scenes for Sketch App
@@ -49,3 +52,5 @@ construct the desired character matching body pieces, objects and backgrounds.
 ## License
 
 This project is licensed under the MIT License - see the License.pdf file for details
+
+![Stubborn Generator](https://stubborn.fun/images/full-preview/preview-4.png)
